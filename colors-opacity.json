@@ -1,0 +1,1073 @@
+{
+  "$color-white-10": {
+    "value": "#ffffff1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-20": {
+    "value": "#ffffff33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-30": {
+    "value": "#ffffff4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-40": {
+    "value": "#ffffff66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-50": {
+    "value": "#ffffff80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-60": {
+    "value": "#ffffff99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-70": {
+    "value": "#ffffffb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-80": {
+    "value": "#ffffffcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-white-90": {
+    "value": "#ffffffe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-steel-10": {
+    "value": "#6d838b1a",
+    "type": "color"
+  },
+  "$color-steel-20": {
+    "value": "#6d838b33",
+    "type": "color"
+  },
+  "$color-steel-30": {
+    "value": "#6d838b4d",
+    "type": "color"
+  },
+  "$color-steel-40": {
+    "value": "#6d838b66",
+    "type": "color"
+  },
+  "$color-steel-50": {
+    "value": "#6d838b80",
+    "type": "color"
+  },
+  "$color-steel-60": {
+    "value": "#6d838b99",
+    "type": "color"
+  },
+  "$color-steel-70": {
+    "value": "#6d838bb3",
+    "type": "color"
+  },
+  "$color-steel-80": {
+    "value": "#6d838bcc",
+    "type": "color"
+  },
+  "$color-steel-90": {
+    "value": "#6d838be6",
+    "type": "color"
+  },
+  "$color-black-10": {
+    "value": "#7070701a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-20": {
+    "value": "#70707033",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-30": {
+    "value": "#7070704d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-40": {
+    "value": "#70707066",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-50": {
+    "value": "#70707080",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-60": {
+    "value": "#70707099",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-70": {
+    "value": "#707070b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-80": {
+    "value": "#707070cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-black-90": {
+    "value": "#707070e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-10": {
+    "value": "#21366b1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-20": {
+    "value": "#21366b33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-30": {
+    "value": "#21366b4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-40": {
+    "value": "#21366b66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-50": {
+    "value": "#21366b80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-60": {
+    "value": "#21366b99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-70": {
+    "value": "#21366bb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-80": {
+    "value": "#21366bcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blue-90": {
+    "value": "#21366be6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-10": {
+    "value": "#ec672c1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-20": {
+    "value": "#ec672c33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-30": {
+    "value": "#ec672c4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-40": {
+    "value": "#ec672c66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-50": {
+    "value": "#ec672c80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-60": {
+    "value": "#ec672c99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-70": {
+    "value": "#ec672cb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-80": {
+    "value": "#ec672ccc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-orange-90": {
+    "value": "#ec672ce6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-10": {
+    "value": "#ea43381a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-20": {
+    "value": "#ea433833",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-30": {
+    "value": "#ea43384d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-40": {
+    "value": "#ea433866",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-50": {
+    "value": "#ea433880",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-60": {
+    "value": "#ea433899",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-70": {
+    "value": "#ea4338b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-80": {
+    "value": "#ea4338cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-red-90": {
+    "value": "#ea4338e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-10": {
+    "value": "#c62f381a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-20": {
+    "value": "#c62f3833",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-30": {
+    "value": "#c62f384d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-40": {
+    "value": "#c62f3866",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-50": {
+    "value": "#c62f3880",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-60": {
+    "value": "#c62f3899",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-70": {
+    "value": "#c62f38b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-80": {
+    "value": "#c62f38cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-tomato-90": {
+    "value": "#c62f38e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-10": {
+    "value": "#b92b631a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-20": {
+    "value": "#b92b6333",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-30": {
+    "value": "#b92b634d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-40": {
+    "value": "#b92b6366",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-50": {
+    "value": "#b92b6380",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-60": {
+    "value": "#b92b6399",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-70": {
+    "value": "#b92b63b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-80": {
+    "value": "#b92b63cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-magenta-90": {
+    "value": "#b92b63e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-10": {
+    "value": "#ea338f1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-20": {
+    "value": "#ea338f33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-30": {
+    "value": "#ea338f4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-40": {
+    "value": "#ea338f66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-50": {
+    "value": "#ea338f80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-60": {
+    "value": "#ea338f99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-70": {
+    "value": "#ea338fb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-80": {
+    "value": "#ea338fcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-pink-90": {
+    "value": "#ea338fe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-10": {
+    "value": "#902cf51a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-20": {
+    "value": "#902cf533",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-30": {
+    "value": "#902cf54d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-40": {
+    "value": "#902cf566",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-50": {
+    "value": "#902cf580",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-60": {
+    "value": "#902cf599",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-70": {
+    "value": "#902cf5b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-80": {
+    "value": "#902cf5cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-purple-90": {
+    "value": "#902cf5e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-10": {
+    "value": "#4f4dd71a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-20": {
+    "value": "#4f4dd733",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-30": {
+    "value": "#4f4dd74d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-40": {
+    "value": "#4f4dd766",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-50": {
+    "value": "#4f4dd780",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-60": {
+    "value": "#4f4dd799",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-70": {
+    "value": "#4f4dd7b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-80": {
+    "value": "#4f4dd7cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-blueberry-90": {
+    "value": "#4f4dd7e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-10": {
+    "value": "#7f5df61a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-20": {
+    "value": "#7f5df633",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-30": {
+    "value": "#7f5df64d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-40": {
+    "value": "#7f5df666",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-50": {
+    "value": "#7f5df680",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-60": {
+    "value": "#7f5df699",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-70": {
+    "value": "#7f5df6b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-80": {
+    "value": "#7f5df6cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-violet-90": {
+    "value": "#7f5df6e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-10": {
+    "value": "#3981f71a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-20": {
+    "value": "#3981f733",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-30": {
+    "value": "#3981f74d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-40": {
+    "value": "#3981f766",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-50": {
+    "value": "#3981f780",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-60": {
+    "value": "#3981f799",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-70": {
+    "value": "#3981f7b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-80": {
+    "value": "#3981f7cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-ocean-90": {
+    "value": "#3981f7e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-10": {
+    "value": "#4c97c71a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-20": {
+    "value": "#4c97c733",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-30": {
+    "value": "#4c97c74d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-40": {
+    "value": "#4c97c766",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-50": {
+    "value": "#4c97c780",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-60": {
+    "value": "#4c97c799",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-70": {
+    "value": "#4c97c7b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-80": {
+    "value": "#4c97c7cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-indigo-90": {
+    "value": "#4c97c7e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-10": {
+    "value": "#35c0cb1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-20": {
+    "value": "#35c0cb33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-30": {
+    "value": "#35c0cb4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-40": {
+    "value": "#35c0cb66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-50": {
+    "value": "#35c0cb80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-60": {
+    "value": "#35c0cb99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-70": {
+    "value": "#35c0cbb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-80": {
+    "value": "#35c0cbcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-turquoise-90": {
+    "value": "#35c0cbe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-10": {
+    "value": "#56aaa01a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-20": {
+    "value": "#56aaa033",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-30": {
+    "value": "#56aaa04d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-40": {
+    "value": "#56aaa066",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-50": {
+    "value": "#56aaa080",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-60": {
+    "value": "#56aaa099",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-70": {
+    "value": "#56aaa0b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-80": {
+    "value": "#56aaa0cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-aquamarine-90": {
+    "value": "#56aaa0e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-10": {
+    "value": "#33754f1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-20": {
+    "value": "#33754f33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-30": {
+    "value": "#33754f4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-40": {
+    "value": "#33754f66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-50": {
+    "value": "#33754f80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-60": {
+    "value": "#33754f99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-70": {
+    "value": "#33754fb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-80": {
+    "value": "#33754fcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-avocado-90": {
+    "value": "#33754fe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-10": {
+    "value": "#4cb0761a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-20": {
+    "value": "#4cb07633",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-30": {
+    "value": "#4cb0764d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-40": {
+    "value": "#4cb07666",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-50": {
+    "value": "#4cb07680",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-60": {
+    "value": "#4cb07699",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-70": {
+    "value": "#4cb076b3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-80": {
+    "value": "#4cb076cc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-teal-90": {
+    "value": "#4cb076e6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-10": {
+    "value": "#69de4f1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-20": {
+    "value": "#69de4f33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-30": {
+    "value": "#69de4f4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-40": {
+    "value": "#69de4f66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-50": {
+    "value": "#69de4f80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-60": {
+    "value": "#69de4f99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-70": {
+    "value": "#69de4fb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-80": {
+    "value": "#69de4fcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-green-90": {
+    "value": "#69de4fe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-10": {
+    "value": "#bdec4a1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-20": {
+    "value": "#bdec4a33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-30": {
+    "value": "#bdec4a4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-40": {
+    "value": "#bdec4a66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-50": {
+    "value": "#bdec4a80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-60": {
+    "value": "#bdec4a99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-70": {
+    "value": "#bdec4ab3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-80": {
+    "value": "#bdec4acc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-lime-90": {
+    "value": "#bdec4ae6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-10": {
+    "value": "#f7ce4a1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-20": {
+    "value": "#f7ce4a33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-30": {
+    "value": "#f7ce4a4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-40": {
+    "value": "#f7ce4a66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-50": {
+    "value": "#f7ce4a80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-60": {
+    "value": "#f7ce4a99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-70": {
+    "value": "#f7ce4ab3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-80": {
+    "value": "#f7ce4acc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-yellow-90": {
+    "value": "#f7ce4ae6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-10": {
+    "value": "#edaa3b1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-20": {
+    "value": "#edaa3b33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-30": {
+    "value": "#edaa3b4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-40": {
+    "value": "#edaa3b66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-50": {
+    "value": "#edaa3b80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-60": {
+    "value": "#edaa3b99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-70": {
+    "value": "#edaa3bb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-80": {
+    "value": "#edaa3bcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-mango-90": {
+    "value": "#edaa3be6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-10": {
+    "value": "#af604b1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-20": {
+    "value": "#af604b33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-30": {
+    "value": "#af604b4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-40": {
+    "value": "#af604b66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-50": {
+    "value": "#af604b80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-60": {
+    "value": "#af604b99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-70": {
+    "value": "#af604bb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-80": {
+    "value": "#af604bcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-brown-90": {
+    "value": "#af604be6",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-10": {
+    "value": "#65201f1a",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-20": {
+    "value": "#65201f33",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-30": {
+    "value": "#65201f4d",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-40": {
+    "value": "#65201f66",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-50": {
+    "value": "#65201f80",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-60": {
+    "value": "#65201f99",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-70": {
+    "value": "#65201fb3",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-80": {
+    "value": "#65201fcc",
+    "type": "color",
+    "description": "gradients or opacities"
+  },
+  "$color-cacao-90": {
+    "value": "#65201fe6",
+    "type": "color",
+    "description": "gradients or opacities"
+  }
+}
