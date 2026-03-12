@@ -1,0 +1,30 @@
+{
+  "font-size-s": {
+    "value": "12px",
+    "type": "fontSizes"
+  },
+  "font-size-m": {
+    "value": "14px",
+    "type": "fontSizes"
+  },
+  "font-size-l": {
+    "value": "16px",
+    "type": "fontSizes"
+  },
+  "font-size-xl": {
+    "value": "20px",
+    "type": "fontSizes"
+  },
+  "font-size-2xl": {
+    "value": "24px",
+    "type": "fontSizes"
+  },
+  "font-size-3xl": {
+    "value": "32px",
+    "type": "fontSizes"
+  },
+  "font-size-4xl": {
+    "value": "46px",
+    "type": "fontSizes"
+  }
+}

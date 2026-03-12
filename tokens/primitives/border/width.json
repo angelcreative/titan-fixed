@@ -1,0 +1,18 @@
+{
+  "stroke-s": {
+    "value": "1px",
+    "type": "borderWidth"
+  },
+  "stroke-m": {
+    "value": "2px",
+    "type": "borderWidth"
+  },
+  "stroke-l": {
+    "value": "3px",
+    "type": "borderWidth"
+  },
+  "stroke-xl": {
+    "value": "4px",
+    "type": "borderWidth"
+  }
+}

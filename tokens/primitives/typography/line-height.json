@@ -1,0 +1,34 @@
+{
+  "font-leading-s": {
+    "value": "16px",
+    "type": "lineHeights"
+  },
+  "font-leading-m": {
+    "value": "18px",
+    "type": "lineHeights"
+  },
+  "font-leading-l": {
+    "value": "20px",
+    "type": "lineHeights"
+  },
+  "font-leading-xl": {
+    "value": "22px",
+    "type": "lineHeights"
+  },
+  "font-leading-2xl": {
+    "value": "24px",
+    "type": "lineHeights"
+  },
+  "font-leading-3xl": {
+    "value": "28px",
+    "type": "lineHeights"
+  },
+  "font-leading-4xl": {
+    "value": "36px",
+    "type": "lineHeights"
+  },
+  "font-leading-5xl": {
+    "value": "50px",
+    "type": "lineHeights"
+  }
+}
