@@ -1,0 +1,30 @@
+{
+  "brand": {
+    "primary": { "value": "{blue.600}",  "type": "color", "description": "Primary brand color" },
+    "dark":    { "value": "{blue.800}",  "type": "color", "description": "Dark variant of brand" },
+    "light":   { "value": "{blue.100}",  "type": "color", "description": "Light variant of brand" }
+  },
+  "neutral": {
+    "0":   { "value": "{white.900}", "type": "color" },
+    "100": { "value": "{black.100}", "type": "color" },
+    "200": { "value": "{black.200}", "type": "color" },
+    "300": { "value": "{black.300}", "type": "color" },
+    "400": { "value": "{black.400}", "type": "color" },
+    "500": { "value": "{black.500}", "type": "color" },
+    "600": { "value": "{black.600}", "type": "color" },
+    "700": { "value": "{black.700}", "type": "color" },
+    "800": { "value": "{black.800}", "type": "color" },
+    "900": { "value": "{black.900}", "type": "color" }
+  },
+  "feedback": {
+    "success":     { "value": "{success.600}",     "type": "color" },
+    "information": { "value": "{information.600}", "type": "color" },
+    "warning":     { "value": "{warning.600}",     "type": "color" },
+    "error":       { "value": "{error.600}",       "type": "color" }
+  },
+  "disabled": {
+    "background": { "value": "{disabled.100}", "type": "color" },
+    "text":       { "value": "{disabled.400}", "type": "color" },
+    "border":     { "value": "{disabled.300}", "type": "color" }
+  }
+}

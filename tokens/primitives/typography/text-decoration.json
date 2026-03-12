@@ -1,10 +1,4 @@
 {
-  "font-decoration-underline": {
-    "value": "underline",
-    "type": "textDecoration"
-  },
-  "font-decoration-dashed": {
-    "value": "line-through",
-    "type": "textDecoration"
-  }
+  "underline": { "value": "underline",    "type": "textDecoration" },
+  "dashed":    { "value": "line-through", "type": "textDecoration" }
 }

@@ -1,39 +1,40 @@
 {
-  "border-dft": {
+  "dft": {
     "value": {
-      "borderWidth": "{stroke-s}",
-      "borderRadius": "{rounded-s}"
+      "borderWidth": "{s}",
+      "borderRadius": "{s}"
     },
-    "type": "composition"
+    "type": "composition",
+    "description": "Default component border shorthand (width s + radius s)"
   },
-  "border-s": {
+  "s": {
     "value": {
-      "color": "{color-black-900}",
-      "width": "{stroke-s}",
+      "color": "{black.900}",
+      "width": "{s}",
       "style": "solid"
     },
     "type": "border"
   },
-  "border-m": {
+  "m": {
     "value": {
-      "color": "{color-black-900}",
-      "width": "{stroke-m}",
+      "color": "{black.900}",
+      "width": "{m}",
       "style": "solid"
     },
     "type": "border"
   },
-  "border-l": {
+  "l": {
     "value": {
-      "color": "{color-black-900}",
-      "width": "{stroke-l}",
+      "color": "{black.900}",
+      "width": "{l}",
       "style": "solid"
     },
     "type": "border"
   },
-  "border-xl": {
+  "xl": {
     "value": {
-      "color": "{color-black-900}",
-      "width": "{stroke-xl}",
+      "color": "{black.900}",
+      "width": "{xl}",
       "style": "solid"
     },
     "type": "border"

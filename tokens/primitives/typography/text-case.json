@@ -1,14 +1,5 @@
 {
-  "font-case-upper": {
-    "value": "uppercase",
-    "type": "textCase"
-  },
-  "font-case-lower": {
-    "value": "lowercase",
-    "type": "textCase"
-  },
-  "font-case-title": {
-    "value": "capitalize",
-    "type": "textCase"
-  }
+  "upper": { "value": "uppercase",  "type": "textCase" },
+  "lower": { "value": "lowercase",  "type": "textCase" },
+  "title": { "value": "capitalize", "type": "textCase" }
 }
