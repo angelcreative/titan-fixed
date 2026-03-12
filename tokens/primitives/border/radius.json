@@ -1,22 +1,7 @@
 {
-  "rounded-xs": {
-    "value": "4px",
-    "type": "borderRadius"
-  },
-  "rounded-s": {
-    "value": "8px",
-    "type": "borderRadius"
-  },
-  "rounded-m": {
-    "value": "12px",
-    "type": "borderRadius"
-  },
-  "rounded-l": {
-    "value": "16px",
-    "type": "borderRadius"
-  },
-  "rounded-xl": {
-    "value": "20px",
-    "type": "borderRadius"
-  }
+  "xs": { "value": "4px",  "type": "borderRadius" },
+  "s":  { "value": "8px",  "type": "borderRadius" },
+  "m":  { "value": "12px", "type": "borderRadius" },
+  "l":  { "value": "16px", "type": "borderRadius" },
+  "xl": { "value": "20px", "type": "borderRadius" }
 }

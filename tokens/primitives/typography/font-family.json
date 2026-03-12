@@ -1,6 +1,3 @@
 {
-  "font-audiense": {
-    "value": "Poppins",
-    "type": "fontFamilies"
-  }
+  "primary": { "value": "Poppins", "type": "fontFamilies" }
 }
